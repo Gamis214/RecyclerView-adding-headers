@@ -33,7 +33,6 @@ public class adapterList extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
         public headerViewHolder(View itemView) {
             super(itemView);
-
         }
     }
 
